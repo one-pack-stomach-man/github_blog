@@ -10,4 +10,5 @@ module.exports = {
     },
     description: 'Just playing around',
     base: '/github_blog/',
+    dest: 'public'
 }
